@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Prata&display=swap");
+@import "tailwindcss";
+
+a.active hr {
+  display: block;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  font-family: "Outfit", cursive;
+}
+::-webkit-scrollbar {
+  width: 5px; /* Thin scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+  background: transparent; /* Makes scrollbar invisible */
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; /* Hides track */
+}
+
+.prata-regular {
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+}
