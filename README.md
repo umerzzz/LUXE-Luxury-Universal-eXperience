@@ -115,6 +115,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Umer - m.umerr005@gmail.com
 
 Project Link: [https://github.com/yourusername/luxe-ecommerce](https://github.com/yourusername/luxe-ecommerce)
